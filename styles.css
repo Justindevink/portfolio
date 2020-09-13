@@ -256,6 +256,26 @@ header {
     height: 60vh;
 }
 
+.headerspotify {
+    background-image: url(images/header/spotify.png);
+    background-position: center;
+    background-size: cover;
+    height: 60vh;
+}
+
+.headerinteraction {
+    background-image: url(images/header/interaction.png);
+    background-position: center;
+    background-size: cover;
+    height: 60vh;
+}
+
+.headerstage {
+    background-image: url(images/header/stage.png);
+    background-position: center;
+    background-size: cover;
+    height: 60vh;
+}
 
 
 
